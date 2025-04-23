@@ -1,7 +1,37 @@
-# Operating System
-# Kernel
-# bootloader
-# Assembly (different kinds n' stuff)
+# Getting Started
+# [C](https://wiki.osdev.org/C)
+# Assembly
+# [stacks](https://wiki.osdev.org/Stack)
+# [debugger](https://wiki.osdev.org/GDB)
+# Modes
+## [Real Mode](https://wiki.osdev.org/Real_Mode)
+## [Unreal Mode](https://wiki.osdev.org/Unreal_Mode)
+## [Protective Mode](https://wiki.osdev.org/Protected_Mode)
+## [Long Mode](https://wiki.osdev.org/Long_Mode)
+# [BIOS](https://wiki.osdev.org/BIOS)
+# Hardware Drivers in your own OS
+# File Formats
+## Executable
+### [ELF](https://wiki.osdev.org/ELF)
+### [PE](https://wiki.osdev.org/PE)
+### [COFF](https://wiki.osdev.org/COFF)
+### [COM](https://wiki.osdev.org/COM)
+### [MZ](https://wiki.osdev.org/MZ)
+### [NE](https://wiki.osdev.org/NE)
+## Archive
+## Graphics
+## Document
+## Other
+# Algorithms
+## Searching Algorithms
+## Sorting Algorithms
+# Abstract Programming Concepts
+# bits & bytes arrangement
+# MMU structures
+# Memory
+# run-time library ? (non C exclusive?? pwetty pwease)
+# Troubleshooting (learn to rely on only yourself and documentation ish)
+# Git (thye git from github, but not just github, the 'whole' git)
+# [Code Management practices](https://wiki.osdev.org/Code_Management)
+# [Virtualizer & Emulators](https://wiki.osdev.org/Emulators)
 # Toolchain
-# Emulators
-# Virtualizors
