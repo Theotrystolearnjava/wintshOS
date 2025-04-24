@@ -1,4 +1,5 @@
 # Getting Started
+
 # [C](https://wiki.osdev.org/C)
 # Assembly
 # [stacks](https://wiki.osdev.org/Stack)
@@ -35,3 +36,17 @@
 # [Code Management practices](https://wiki.osdev.org/Code_Management)
 # [Virtualizer & Emulators](https://wiki.osdev.org/Emulators)
 # Toolchain
+# Object Files
+# Cross Compiler
+
+# Apps
+
+# Binutils
+# GCC
+# Make
+# Grep and Sed
+# Diffutils
+# Phyton
+# An Assembler (NASM or GAS)
+# An editor (Neovim)
+# QMEU
