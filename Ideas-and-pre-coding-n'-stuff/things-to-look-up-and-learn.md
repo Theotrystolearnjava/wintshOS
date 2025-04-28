@@ -1,8 +1,8 @@
 # Getting Started
 
 # [C](https://wiki.osdev.org/C) - CHECK
-# [Assembly](https://wiki.osdev.org/Assembly) [x86-64](https://os.inf.tu-dresden.de/Studium/OSC/SS2022/tasks/task4/assembler.php) - BEGUN
-# [stacks](https://wiki.osdev.org/Stack)
+# [Assembly](https://wiki.osdev.org/Assembly) [x86-64](https://os.inf.tu-dresden.de/Studium/OSC/SS2022/tasks/task4/assembler.php) - DONE (I hate and I also love it)
+# [stacks](https://wiki.osdev.org/Stack) - DONE
 # [debugger](https://wiki.osdev.org/GDB)
 # Modes
 ## [Real Mode](https://wiki.osdev.org/Real_Mode)
@@ -23,7 +23,7 @@
 ## Graphics
 ## Document
 ## Other
-# Algorithms
+# Algorithms - BOOK IS ORDERED
 ## Searching Algorithms
 ## Sorting Algorithms
 # Abstract Programming Concepts
@@ -38,8 +38,10 @@
 # Toolchain
 # Object Files
 # Cross Compiler
-# Volatile
+# Volatile - DONE
 # [OS Theory](https://wiki.osdev.org/Category:OS_theory)
+# [Segamentation](https://wiki.osdev.org/Segmentation)
+# (Assembler](https://wiki.osdev.org/NASM)
 
 # Apps
 
@@ -52,3 +54,4 @@
 # An Assembler (NASM or GAS)
 # An editor (Neovim)
 # QMEU
+
